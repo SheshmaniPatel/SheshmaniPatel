@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-# 💫 About Me:
-My passion for developing user-friendly and scalable Web applications has led me to work on a variety of projects, from small business websites to large enterprise applications. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver high-quality solutions.<br><br>💻  I’m currently working on  a Social-media Website<br><br>📚  Ask me about  : MERN , Frontend , C++ , DSA(Java)<br><br>📫  How to reach me:  sheshmani47581@gmail.com<br><br>🌱  I’m currently learning React<br><br>⚡  Fun fact : A arts student who work in Medical field to come in Developer field 😁<br><br>
+ 💫 About Me:
+  My passion for developing user-friendly and scalable Web applications has led me to work on a variety of projects, from small business websites to large enterprise applications. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver high-quality solutions.<br><br>💻  I’m currently working on  a Social-media Website<br><br>📚  Ask me about  : MERN , Frontend , C++ , DSA(Java)<br><br>📫  How to reach me:  sheshmani47581@gmail.com<br><br>🌱  I’m currently learning React<br><br>⚡  Fun fact : A arts student who work in Medical field to come in Developer field 😁<br><br>
 
 
 ## 🌐 Socials:
